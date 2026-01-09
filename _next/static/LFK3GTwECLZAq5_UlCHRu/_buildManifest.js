@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/www.buap.pro//_next/:path+",
+        "destination": "/www.buap.pro/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [

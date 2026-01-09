@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
-2:I[32593,["/_next/static/chunks/181706554de13be6.js","/_next/static/chunks/164657bb3e5961b9.js"],"ClientPageRoot"]
-3:I[6250,["/_next/static/chunks/59b91018788cc21a.js","/_next/static/chunks/181706554de13be6.js","/_next/static/chunks/e62c36925f5e84ff.js"],"default"]
-6:I[24475,["/_next/static/chunks/181706554de13be6.js","/_next/static/chunks/164657bb3e5961b9.js"],"OutletBoundary"]
+2:I[47257,["/www.buap.pro/_next/static/chunks/ff1a16fafef87110.js","/www.buap.pro/_next/static/chunks/7340adf74ff47ec0.js"],"ClientPageRoot"]
+3:I[31713,["/www.buap.pro/_next/static/chunks/5bab93f39577e409.js","/www.buap.pro/_next/static/chunks/ff1a16fafef87110.js","/www.buap.pro/_next/static/chunks/15604322b3b06383.js"],"default"]
+6:I[97367,["/www.buap.pro/_next/static/chunks/ff1a16fafef87110.js","/www.buap.pro/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-:HL["/_next/static/chunks/dd3a1f250062308b.css","style"]
-0:{"buildId":"HMiENkKdQAJ4rD5l1DxkG","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/dd3a1f250062308b.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/181706554de13be6.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/e62c36925f5e84ff.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+:HL["/www.buap.pro/_next/static/chunks/dd3a1f250062308b.css","style"]
+0:{"buildId":"LFK3GTwECLZAq5_UlCHRu","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/www.buap.pro/_next/static/chunks/dd3a1f250062308b.css","precedence":"next"}],["$","script","script-0",{"src":"/www.buap.pro/_next/static/chunks/ff1a16fafef87110.js","async":true}],["$","script","script-1",{"src":"/www.buap.pro/_next/static/chunks/15604322b3b06383.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
